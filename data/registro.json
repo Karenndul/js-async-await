@@ -1,0 +1,31 @@
+[
+{
+  "nombre": "Karen",
+  "apellido": "Lugo",
+  "telefono": "5757748400"
+
+},
+{
+    "nombre": "Uriel",
+    "apellido": "Galván",
+    "telefono": "5754963091"
+},
+{
+  "nombre": "Arturo",
+  "apellido": "Paredes",
+  "telefono": "5737209870"
+
+},
+{
+    "nombre": "Raúl",
+    "apellido": "Márquez",
+    "telefono": "5778720981"
+  
+},
+{
+  "nombre": "Señora",
+  "apellido": "Hinojosa",
+  "telefono": "5898612063"
+
+}
+]
